@@ -1,0 +1,9 @@
+{
+  "name": "SuperLife: Hero's Journey",
+  "description": "A text-based life simulation game where you live a normal life while mastering extraordinary superpowers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
