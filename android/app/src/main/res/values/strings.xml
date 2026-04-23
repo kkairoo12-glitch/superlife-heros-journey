@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Superlife Hero\'s Journey</string>
+    <string name="title_activity_main">Superlife Hero\'s Journey</string>
+    <string name="package_name">com.superlife.hero</string>
+    <string name="custom_url_scheme">com.superlife.hero</string>
+</resources>
